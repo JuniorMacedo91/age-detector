@@ -87,3 +87,44 @@ section p {
     text-transform: uppercase;
     letter-spacing: 5px;
 }
+
+@media screen and (max-width:600px) {
+    
+   .box{
+       width: 280px;
+       padding: 1rem;
+   }
+
+   h1{
+       font-size: 1.4rem;
+   }
+
+   #ano_nasc{
+       width: 150px;
+   }
+
+   #sexo{
+       padding: 10px 0px;
+       font-size: 12px;
+   }
+
+   #res, #button{
+       font-size: 12px;
+   }
+
+   .container::before{
+    width: 200px;
+    height: 200px;
+    transform: translate(-70px,-150px);
+   }
+    .container::after{
+        width: 150px;
+        height: 150px;
+        transform: translate(90px,160px);
+    }
+
+    #foto{
+        width: 250px;
+    }
+
+}
