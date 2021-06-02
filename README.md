@@ -1,13 +1,14 @@
 # detector-de-idade
-Projeto criado para colocar em pratica os conceitos iniciais em JavaScript, através das aulas do Curso em Video.
+Projeto desenvolvio para colocar em prática os conceitos iniciais em JavaScript, através das aulas do Curso em Video.
 
 ## Descrição:
-Ao inserir o ano de nascimento e o sexo, o sistema informa a idade atual e o gênero, refletindo uma imagem ilustrativa mostrando a aparência de acordo com a idade.
+Ao inserir o ano de nascimento e escolher o sexo, o sistema informa a idade atual e o gênero, refletindo uma imagem ilustrativa mostrando a aparência de acordo com a idade.
+Caso a idade seja 0 ou acima do ano atual, o sistema irá mostrar um pop-up informando para corrigir as informações inseridas.
 
 ## Técnicas de JavaScript:
 
-  - [x] DOM - Modelo de Objeto de Documento - Representa a página web, permitindo alterações através do JavaScript;
-  - [x] Alert - Permite gerar um pop-up informativo;
+ - [x] DOM - Modelo de Objeto de Documento - Representa a página web, permitindo alterações através do JavaScript;
+ - [x] Alert - Permite gerar um pop-up informativo;
  - [x] createElement - Cria um elemento para definir o tipo de conteudo;
  - [x] setAttribute - Atribui valor ao elemento;
 
