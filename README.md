@@ -18,7 +18,7 @@ Ao inserir o ano de nascimento e o sexo, o sistema informa a idade atual e o gê
 ## Projeto:
 
 <p align="center">
-  <img src="animated-card.gif" width="700px">
+  <img src="age.gif" width="700px">
 </p>
 
 ## Tecnologias:
