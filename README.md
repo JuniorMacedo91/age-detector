@@ -29,6 +29,6 @@ Ao inserir o ano de nascimento e o sexo, o sistema informa a idade atual e o gê
 
 [![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black)](https://github.com/JuniorMacedo91)
 
-## Check out the Web Page:
-https://juniormacedo91.github.io/animated-card/
+## Site:
+https://juniormacedo91.github.io/detector-de-idade/
 
