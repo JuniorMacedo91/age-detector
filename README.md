@@ -12,7 +12,7 @@ When you type the birth of year and choose gender, the application will display 
 In case of age like zero or beyond currently year, a pop-up will appear to inform there's wrong informations.
 
 ## Check out the website:
-https://juniormacedo91.github.io/detector-de-idade/
+https://juniormacedo91.github.io/age-detector/
 
 ## Techniques:
 
